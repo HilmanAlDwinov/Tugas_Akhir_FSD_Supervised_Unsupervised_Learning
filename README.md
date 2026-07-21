@@ -202,7 +202,7 @@ Fitur aplikasi:
 ## 1. Clone Repository
 
 ```bash
-git clone
+git clone https://github.com/HilmanAlDwinov/Tugas_Akhir_FSD_Supervised_Unsupervised_Learning.git
 ```
 
 Masuk ke folder project
